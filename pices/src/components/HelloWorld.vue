@@ -3,7 +3,7 @@
     <h1>
       首页
     </h1>
-    
+      <header></header>
   </div>
 </template>
 <script>
